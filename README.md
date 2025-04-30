@@ -35,5 +35,3 @@ pip install -r requirements.txt
 1. tener el archivo `Salaries.sqlite` en el mismo directorio.
 2. Abrir el notebook `actividad_df.ipynb`.
 3. Ejecutar cada celda siguiendo el orden para ver los resultados del análisis.
-
---
