@@ -19,7 +19,7 @@ Para ejecutar este proyecto se recomienda usar un **entorno virtual** y tener Py
 # 1. Clonar el repositorio
 
 ```bash
-git clone [Link_repo](https://github.com/AlanRik20/pandas_df_tlp3_alan_riquelme.git)
+git clone https://github.com/AlanRik20/pandas_df_tlp3_alan_riquelme.git
 cd pandas_df_tlp3_alan_riquelme
 ```
 
