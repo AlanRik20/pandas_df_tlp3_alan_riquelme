@@ -16,22 +16,34 @@ Para ejecutar este proyecto se recomienda usar un **entorno virtual** y tener Py
 
 ### Instalación
 
-```bash
 # 1. Clonar el repositorio
-git clone (https://github.com/AlanRik20/pandas_df_tlp3_alan_riquelme.git)
+
+```bash
+git clone [Link_repo](https://github.com/AlanRik20/pandas_df_tlp3_alan_riquelme.git)
 cd pandas_df_tlp3_alan_riquelme
+```
 
 # 2. Crear entorno virtual
+
+ingresar en una consola de PowerShell y escribir:
+
+```bash
 python -m venv env
+```
 
 # 3. Activar entorno virtual
-# En Windows:
+
+```bash
 .\env\Scripts\activate
+```
 
 # 4. Instalar dependencias
+
+```bash
 pip install -r requirements.txt
+```
+
 ## Ejecución
 
-1. tener el archivo `Salaries.sqlite` en el mismo directorio.
-2. Abrir el notebook `actividad_df.ipynb`.
-3. Ejecutar cada celda siguiendo el orden para ver los resultados del análisis.
+1. Abrir el notebook `actividad_df.ipynb`.
+2. Ejecutar cada celda siguiendo el orden para ver los resultados del análisis.
